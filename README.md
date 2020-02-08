@@ -1,1 +1,1 @@
-# vscode_git
+# vscode_git vscodeでgitを練習している
